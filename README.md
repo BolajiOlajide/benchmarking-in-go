@@ -1,0 +1,1 @@
+Trying out some benchmarking in Golang!
